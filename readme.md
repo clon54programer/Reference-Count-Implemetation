@@ -18,5 +18,5 @@ fallos de los punteros sin formato.
 
 # Cosas a implementar en el futuro
 
-- Un metodo parecido al _make__ de los smart_pointer para facilitar la creacion de instancias de
-  objetos.
+-  Un metodo parecido al __make__ de los smart_pointer para facilitar la creacion de instancias de
+   objetos.
