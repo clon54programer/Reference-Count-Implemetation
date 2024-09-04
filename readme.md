@@ -12,7 +12,7 @@ nulo.
 Esto pense que es un problema de mi implementacion, pero el __shared_ptr__, sufre del mismo problema.
 
 Gracias a esto, entendi, porque los smart pointer y move sematics son conceptos, que fallan entre si,
-porque los smart pointer, solo son una envoltura del un puntero sin formato, y son subestible a los 
+porque los smart pointer, solo son una envoltura de un puntero sin formato, y son subestible a los 
 fallos de los punteros sin formato.
 
 
